@@ -1,12 +1,10 @@
 <h2 data-importer="text" align="left">Hi 👋! Meu nome é Khael e sou Desenvolvedor Full Stack, do Brasil.</h2>
 
-Desenvolvedor Full Stack, com foco em JavaScript e automação. Estudante de Engenharia de Software e atualmente aprendendo Rust. Gosto de desenvolver soluções eficientes e transformar ideias em projetos funcionais.
-
 <div data-importer="stats" align="center">
   <img src="https://streak-stats.demolab.com?user=khaelzk&locale=pt-br&mode=weekly&theme=dark&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=khaelzk&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true&locale=pt-br" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaelzk&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&locale=pt-br&hide_title=true" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=khaelzk&theme=one-dark&bg_color=g&area=true&hide_border=true&hide_title=false&custom_title=XD" height="150" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=khaelzk&theme=one-dark&bg_color=g&area=true&hide_border=true&hide_title=false&custom_title=XD" height="300" width="100%" alt="activity-graph graph"  />
 </div>
 
 <img data-importer="image" align="right" height="158" src="https://raw.githubusercontent.com/khaelzk/khaelzk/main/assets/profile.gif"  />
@@ -39,7 +37,7 @@ Desenvolvedor Full Stack, com foco em JavaScript e automação. Estudante de Eng
 <picture data-importer="pacman">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/khaelzk/khaelzk/pacman-output/bomberman-contribution-graph-dark.svg?game=bomberman">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/khaelzk/khaelzk/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/khaelzk/khaelzk/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
+  <img alt="pacman contribution graph" width="100%" src="https://raw.githubusercontent.com/khaelzk/khaelzk/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
 </picture>
 
 <!-- Bloco do Medium abaixo está referenciando "@undefined" (nenhum usuário configurado no gerador).
