@@ -20,7 +20,7 @@ jobs:
         id: snake
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: dist/snake.svg
+          outputs: dist/snake.svg?color_snake=#f1fa8c&color_dots=#282a36,#44475a,#6272a4,#bd93f9,#ff79c6
 
       - name: Publicar na branch snake-output
         uses: crazy-max/ghaction-github-pages@v4
