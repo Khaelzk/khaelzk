@@ -1,4 +1,4 @@
-<h2 data-importer="text" align="left">Hi 👋! Meu nome é Khael e sou Desenvolvedor Full Stack, do Brasil.</h2>
+<h2 data-importer="text" align="left">Olá 👋! Meu nome é Khael e sou Desenvolvedor Full Stack, do Brasil.</h2>
 
 <div data-importer="stats" align="center">
   <img src="https://streak-stats.demolab.com?user=khaelzk&locale=pt-br&mode=weekly&theme=dark&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
