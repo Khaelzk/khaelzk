@@ -1,7 +1,7 @@
 <h2 data-importer="text" align="left">Olá 👋! Meu nome é Khael e sou Desenvolvedor Full Stack, do Brasil.</h2>
 
 <div data-importer="stats" align="center">
-  <img src="https://streak-stats.demolab.com?user=khaelzk&locale=pt-br&mode=weekly&theme=dark&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://raw.githubusercontent.com/khaelzk/khaelzk/main/profile/streak.svg" height="150" alt="streak graph"  />
     <img src="https://raw.githubusercontent.com/khaelzk/khaelzk/main/profile/stats.svg" height="150" alt="stats graph"  />
       <img src="https://raw.githubusercontent.com/khaelzk/khaelzk/main/profile/top-langs.svg" height="150" alt="languages graph"  />
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=khaelzk&theme=one-dark&bg_color=g&area=true&hide_border=true&hide_title=false&custom_title=XD" height="300" width="100%" alt="activity-graph graph"  />
